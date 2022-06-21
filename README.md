@@ -12,6 +12,10 @@
 
 `pip install -r requirements.txt`
 
+### Generate input data from random employee generator
+
+`python3 ./generate_empl -o data.json -n 25` - where 25 can be replaced with desired amount of employees
+
 ### Create an docker container
 
 `sudo docker build -t theburroughs .`
