@@ -24,5 +24,5 @@ Will start container and port 1980 will be used to access the API.
 ### API endpoints
 
 `/salaries/{date}` where date format is yyyy-mm-dd
-
+`/list` all employees input data
 
